@@ -1,1 +1,2 @@
-# Dipak-Sapate-Task--5-Student-Result-Management-Systeams-
+# LGMVIP-Management-system
+This is Student management system
